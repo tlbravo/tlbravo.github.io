@@ -1,4 +1,6 @@
-# About Me
+# Aspiring Data Scientist
+
+## About Me
 Multidisciplinary professional with a Data Analytics and Visualization certificate from the University of Pennsylvania. Currently pursuing a Master of Science in Data Science. Recognized for performing quality control assessments, analyzing data, and efficiently bridging communications across teams. Seeking to leverage my skills into a new opportunity to pivot into the data science field.
 
 ### Technical Skills: Python, R, SQL
@@ -6,31 +8,31 @@ Multidisciplinary professional with a Data Analytics and Visualization certifica
 ### Tools: Pandas, Numpy, Matplotlib, Plotly, Scikit-Learn.
 
 ### Education and Certifications
-- M.S., Data Science | Eastern University (May 2025) <br>
-- Certificate, Data Analytics and Visualization  | University of Pennsylvania (December 2023) <br>
-- Certificate, Data Analytics | Google (November 2023) <br>
-- B.S., Environmental Science | Rutgers University (October 2016) <br>
+- M.S., Data Science | Eastern University (_May 2025_)
+- Certificate, Data Analytics and Visualization  | University of Pennsylvania (_December 2023_)
+- Certificate, Data Analytics | Google (_November 2023_)
+- B.S., Environmental Science | Rutgers University (_October 2016_)
 
 ### Projects
 ### Predicting Pharmaceutical Sales
 [Link](https://github.com/tlbravo/Pharma_Sales_Model)
 
-Forecast pharmaceutical sales after 2019 with machine learning models. I utilized a dataset comprised of over 600,000 transactional records gathered over a six-year period (2014-2019).
+Forecast pharmaceutical sales after 2019 with machine learning models with **scikit-learn**. I utilized a dataset comprised of over 600,000 transactional records gathered over a six-year period (2014-2019).
 
 ### Windows Laptops Analysis
 [Link](https://github.com/tlbravo/Windows-Laptops-Analysis)
 
-Visualizing a Windows laptop dataset based on their specifications and functionalities with pandas, plotly, and Seaborn.
+Visualizing a Windows laptop dataset based on their specifications and functionalities with **pandas, plotly, and Seaborn**.
 
 ### SQL Squirrel Census
 [Link](https://github.com/tlbravo/sql_squirrel_census)
 
-Exploring the 2018 NYC Squirrel Census through SQL queries in order to find any patterns for possible conservation purposes.
+Exploring the 2018 NYC Squirrel Census through **SQL** queries in order to find any patterns for possible conservation purposes.
 
 ### Hierarchical Cluster Analysis
 [Link](https://github.com/tlbravo/Hierarchical_cluster_analysis)
 
- Utilizing hierarchical cluster analysis to find any notable relationships between cheeses based on their different characteristics.
+ Utilizing **R** and hierarchical cluster analysis to find any notable relationships between cheeses based on their different characteristics.
 
 ### Experience 
 **UVM Senior Specialist  @ Davey Resource Group, Inc (_February 2016- October 2024_)**
