@@ -1,5 +1,3 @@
-# Aspiring Data Scientist
-
 ## About Me
 Data Analytics and Visualization certified professional from the University of Pennsylvania, currently pursuing an M.S. in Data Science. Skilled in quality control, data analysis, and cross-team communication. Eager to transition into a data science role where I can apply my analytical skills to drive meaningful insights.
 
@@ -10,10 +8,10 @@ Data Analytics and Visualization certified professional from the University of P
 --- 
 
 ### Education and Certificates
-- M.S., Data Science | Eastern University (_May 2025_)
-- Certificate, Data Analytics and Visualization  | University of Pennsylvania (_December 2023_)
-- Certificate, Data Analytics | Google (_November 2023_)
-- B.S., Environmental Science | Rutgers University (_October 2016_)
+M.S., Data Science | Eastern University (_May 2025_) <br>
+Certificate, Data Analytics and Visualization  | University of Pennsylvania (_December 2023_) <br>
+Certificate, Data Analytics | Google (_November 2023_) <br>
+B.S., Environmental Science | Rutgers University (_October 2016_) <br>
 
 ## Projects
 ### [Predicting Pharmaceutical Sales](https://github.com/tlbravo/Pharma_Sales_Model)
