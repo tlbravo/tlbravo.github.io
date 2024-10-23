@@ -1,5 +1,17 @@
 title: Theresa Bravo
 logo: /Images/circle.png
-description: Portfolio
+description: Lifelong learner on the path to Data Science.
 show_downloads: true
 theme: jekyll-theme-minimal
+
+#Social media links
+social_links:
+  linkedin: https://www.linkedin.com/in/t-bravo/
+
+#background
+#background: "/Images/background.jpg"
+
+# Adding footer
+footer:
+  text: Made with 💻 & :heart: by Theresa
+  contact_email: tbravo507@gmail.com
